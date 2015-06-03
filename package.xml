@@ -4,5 +4,13 @@
         <members>CTA_Perck_Blunt</members>
         <name>CustomApplication</name>
     </types>
+    <types>
+        <members>Drug__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Drug__c</members>
+        <name>CustomTab</name>
+    </types>
     <version>27.0</version>
 </Package>
