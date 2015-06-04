@@ -5,12 +5,10 @@
         <name>CustomApplication</name>
     </types>
     <types>
-        <members>Compound__c</members>
         <members>Drug__c</members>
         <name>CustomObject</name>
     </types>
     <types>
-        <members>Compound__c</members>
         <members>Drug__c</members>
         <name>CustomTab</name>
     </types>
