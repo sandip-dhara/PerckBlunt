@@ -9,4 +9,5 @@
     <tab>standard-Case</tab>
     <tab>standard-Knowledge</tab>
     <tab>Drug__c</tab>
+    <tab>Compound__c</tab>
 </CustomApplication>
